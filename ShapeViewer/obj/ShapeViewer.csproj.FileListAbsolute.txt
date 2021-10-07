@@ -1,0 +1,16 @@
+C:\PROJECTS\CSharp_Navicom\ADDR_SEARCH\Zzz ShapeViewer\ShapeViewer\bin\Debug\ShapeViewer.exe
+C:\PROJECTS\CSharp_Navicom\ADDR_SEARCH\Zzz ShapeViewer\ShapeViewer\bin\Debug\ShapeViewer.pdb
+C:\PROJECTS\CSharp_Navicom\ADDR_SEARCH\Zzz ShapeViewer\ShapeViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\PROJECTS\CSharp_Navicom\ADDR_SEARCH\Zzz ShapeViewer\ShapeViewer\obj\Debug\ShapeViewer.frmMain.resources
+C:\PROJECTS\CSharp_Navicom\ADDR_SEARCH\Zzz ShapeViewer\ShapeViewer\obj\Debug\ShapeViewer.Properties.Resources.resources
+C:\PROJECTS\CSharp_Navicom\ADDR_SEARCH\Zzz ShapeViewer\ShapeViewer\obj\Debug\ShapeViewer.csproj.GenerateResource.Cache
+C:\PROJECTS\CSharp_Navicom\ADDR_SEARCH\Zzz ShapeViewer\ShapeViewer\obj\Debug\ShapeViewer.exe
+C:\PROJECTS\CSharp_Navicom\ADDR_SEARCH\Zzz ShapeViewer\ShapeViewer\obj\Debug\ShapeViewer.pdb
+C:\PROJECTS\CSharp_Navicom\ADDR_SEARCH\_ShapeViewer\ShapeViewer\obj\Debug\ShapeViewer.pdb
+C:\PROJECTS\CSharp_Navicom\ADDR_SEARCH\_ShapeViewer\ShapeViewer\bin\Debug\ShapeViewer.exe
+C:\PROJECTS\CSharp_Navicom\ADDR_SEARCH\_ShapeViewer\ShapeViewer\bin\Debug\ShapeViewer.pdb
+C:\PROJECTS\CSharp_Navicom\ADDR_SEARCH\_ShapeViewer\ShapeViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\PROJECTS\CSharp_Navicom\ADDR_SEARCH\_ShapeViewer\ShapeViewer\obj\Debug\ShapeViewer.frmMain.resources
+C:\PROJECTS\CSharp_Navicom\ADDR_SEARCH\_ShapeViewer\ShapeViewer\obj\Debug\ShapeViewer.Properties.Resources.resources
+C:\PROJECTS\CSharp_Navicom\ADDR_SEARCH\_ShapeViewer\ShapeViewer\obj\Debug\ShapeViewer.csproj.GenerateResource.Cache
+C:\PROJECTS\CSharp_Navicom\ADDR_SEARCH\_ShapeViewer\ShapeViewer\obj\Debug\ShapeViewer.exe

@@ -1,0 +1,8 @@
+bin\Debug\ShapeViewer.exe
+bin\Debug\ShapeViewer.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ShapeViewer.frmMain.resources
+obj\Debug\ShapeViewer.Properties.Resources.resources
+obj\Debug\ShapeViewer.csproj.GenerateResource.Cache
+obj\Debug\ShapeViewer.exe
+obj\Debug\ShapeViewer.pdb
